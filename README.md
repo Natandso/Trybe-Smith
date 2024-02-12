@@ -3,6 +3,8 @@
 
 Sétimo projeto de Back End fornecido pela instituição Trybe, aonde o desafio era criarmos uma API Restful CRUD utilizando a arquitetura MSC e o TypeScript, além do JWT para Token e etc.
 
+# Diagrama Entidade Relacionamento do projeto
+![Diagrama de Entidade](image.png)
 
 ## Aprendizados
 
@@ -12,6 +14,7 @@ Neste projeto tive o prazer de criar uma API Restful utilizando os conhecimentos
 ## Stack utilizada
 
 **Back-End:** Express.js, Sequelize, TypeScript, Node.js, MySql e JWT.
+**Validação:** Joi
 
 
 ## Instalação
