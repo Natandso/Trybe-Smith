@@ -3,7 +3,7 @@
 
 Sétimo projeto de Back End fornecido pela instituição Trybe, aonde o desafio era criarmos uma API Restful CRUD utilizando a arquitetura MSC e o TypeScript, além do JWT para Token e etc.
 
-# Diagrama Entidade Relacionamento do projeto
+## Diagrama Entidade Relacionamento do projeto
 ![Diagrama de Entidade](image.png)
 
 ## Aprendizados
